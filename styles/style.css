@@ -1,3 +1,24 @@
+img {
+  border: solid 6px #006C75;
+  hight: 500px;
+  width: 500px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+
+h3 {
+    border: solid 4px #DB5B00;
+    background-color: #FF7919;
+    text-align: center;
+    color:#8F3B00;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-right: 33.35%;
+    margin-left: 33.35%;
+
+}
+
 body {
-    background-color:red;
+    background-color: #00C9DB;
 }
